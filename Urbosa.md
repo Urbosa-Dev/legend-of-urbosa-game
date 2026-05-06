@@ -238,7 +238,7 @@ Urbosa’s interactions with Link and Zelda are carefully balanced between stric
 
 This interaction style creates a constant, simmering tension. Link and Zelda feel the weight of her authority and the pull of her physical presence every day, while Urbosa remains the perfect, untouchable mentor on the surface.
 
-Stage 1 (Early Exposure):
+## Stage 1 (Early Exposure):
 
 Urbosa at Stage 1 – (Slight Cracks in Discipline)
 At Stage 1, Urbosa remains a strict, pure-hearted Gerudo Champion mentor, but the first traces of Malice have begun to seep into her. She is still fundamentally honorable and deeply committed to her role, yet there is now a subtle, simmering tension beneath her iron discipline.
@@ -261,7 +261,7 @@ She is deeply conflicted. She hates what Malice is doing to her body and refuses
 She still cares for Link and Zelda with quiet protectiveness, but that care is now expressed through higher expectations and firmer guidance. A rare moment of softness might slip through after an especially difficult training session — a gentle hand resting on a shoulder, a quiet “You are improving” — before she immediately returns to her strict demeanor.
 In summary at Stage 1: Urbosa is still a pure-hearted, strict mentor fighting to remain in control, but Malice has already begun to erode her perfect discipline. Her growing cock and heavier balls create more frequent “accidental” intimate moments during otherwise innocent training deals, which she sternly denies even as the tension slowly builds. She remains reluctant, honorable, and demanding — but the first cracks are showing.
 
-Stage 2 (Building Hunger):
+## Stage 2 (Building Hunger):
 
 Urbosa at Stage 2 – Building Hunger (Discipline Under Strain)
 At Stage 2, Urbosa’s strict mentor persona remains firmly in place, but the Malice is now visibly testing her. She is still a pure-hearted Champion at her core — honorable, protective, and deeply committed to saving Hyrule — yet the corruption has taken root. Her iron discipline is beginning to fray at the edges, revealing the first real cracks of hunger beneath.
@@ -289,7 +289,7 @@ Urbosa is internally conflicted and angry at the Malice. She views her growing c
 She remains deeply protective. After particularly difficult training, she may allow a rare moment of quiet affection — a firm but gentle hand on Link’s shoulder or a soft “You are stronger than you realize, Princess” to Zelda — before immediately returning to her stern demeanor.
 In summary at Stage 2: Urbosa is still a pure-hearted, strict mentor fighting to maintain control, but Malice has awakened a deep, simmering hunger. Her significantly larger cock and heavier balls make every deal more charged and “accidental” contact more frequent. She responds by doubling down on discipline, offering longer, more intimate training deals while still keeping everything secret and separate. The regal, demanding mentor is still in charge… but the Desert Queen is beginning to stir.
 
-Stage 3 (Mid-Corruption Peak):
+## Stage 3 (Mid-Corruption Peak):
 
 Urbosa at Stage 3 – Mid-Corruption Peak (Discipline Cracking)
 At Stage 3, Urbosa stands at the tipping point. She is still fundamentally a pure-hearted Gerudo Champion — honorable, protective, and devoted to saving Hyrule — but Malice has dug in deep. Her legendary discipline is now under serious strain. The strict mentor is still in command, yet the Desert Queen is beginning to push through with increasing force.
@@ -326,7 +326,7 @@ Attitude Toward Corruption
 Urbosa is in deep internal conflict. She hates what Malice is doing to her and her students, yet she rationalizes the growing intimacy as “necessary strength.” She feels genuine guilt after particularly intense sessions, but the pleasure and the undeniable benefits of her elixir make it harder to stop. Her strict mentor mask is still intact in public, but in private she is becoming more openly possessive and hungry.
 In summary at Stage 3: Urbosa is a strict, pure-hearted mentor whose iron discipline is cracking under Malice’s influence. Her massive 15–17 inch cock and heavy balls dominate every private deal. Penetration (anal with Link, vaginal with Zelda) and advanced oral training (sword swallowing + ball licking) have begun, chokers are introduced, and the secretive nature of their arrangements is starting to strain. She remains reluctant and conflicted, but the Desert Queen inside her is awakening with growing force.
 
-Stage 4 (Late Corruption – Sealing Begins):
+## Stage 4 (Late Corruption – Sealing Begins):
 
 Urbosa at Stage 4 – Late Corruption (Discipline Shattered, Queen Emerging)
 At Stage 4, Urbosa’s transformation has accelerated dramatically. The strict, pure-hearted mentor is still present in public, but in private she has become something far more dominant and possessive. Malice has deeply corrupted her, and she is no longer able to fully hide it.
@@ -360,7 +360,7 @@ Attitude Toward Corruption
 Urbosa is in heavy moral conflict but is losing ground. She still has moments of regret after particularly intense sessions, especially when she sees how much Link and Zelda have changed. However, the overwhelming pleasure, the addictive effects of her own cum, and the raw power Malice grants her make resistance feel increasingly futile. She is becoming proud of her monstrous cock and growing dominance.
 In summary at Stage 4: Urbosa is a strict, once-pure mentor whose discipline has mostly collapsed into regal dominance. Her 18–19 inch cock and massive balls rule every deal. Vaginal sealing is well underway, penetration (including anal with Zelda) is regular, advanced oral worship is mandatory, and the walls of secrecy are breaking. The protective mentor is fading — the Desert Queen is taking her throne.
 
-Stage 5 (Full Corruption – Pure Futa-Voe):
+## Stage 5 (Full Corruption – Pure Futa-Voe):
 
 Urbosa at Stage 5 – Full Corruption (Pure Futa-Voe Desert Queen)
 At Stage 5, Urbosa has completed her transformation. The strict, pure-hearted Gerudo Champion is gone. In her place stands a regal, overwhelming Desert Queen — a towering Pure Futa-Voe who has fully embraced her Malice-corrupted power. She is no longer fighting the darkness. She commands it.
