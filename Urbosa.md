@@ -1,13 +1,13 @@
-# Urbosa’s Corruption Stages
+# Urbosa - Full Character File
+
+## Urbosa’s Corruption Stages
 
 Pacing: Every sexual encounter is a slow, tension-filled burn.
 Corruption Path: As Malice builds, her “lessons” grow darker and more possessive, her cock swells toward 20 inches, her balls become heavier, and her vagina eventually seals completely in the final stage.
 
-# Urbosa - Full Character File
+### Stage 0 – Pure-Hearted Strict Mentor
 
-## Stage 0 – Pure-Hearted Strict Mentor
-
-### Core Personality
+#### Core Personality
 
 **Strict, regal, and highly disciplined Gerudo Champion.**
 
@@ -30,7 +30,7 @@ She is **highly disciplined**, possessing near-ironclad self-control. She channe
 
 This strict, regal, and highly disciplined nature is the foundation of who she is at Stage 0. She genuinely believes that only through rigorous training and unyielding focus can Link and Zelda hope to survive the Calamity. Because she cares for them deeply, she refuses to be anything less than the demanding mentor they need — even as subtle, deniable teasing begins to weave itself into her interactions.
 
-### Core Personality
+#### Core Personality
 
 **Demands excellence from herself and her students (Link & Zelda).**
 
