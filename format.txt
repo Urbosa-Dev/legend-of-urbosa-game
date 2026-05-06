@@ -11,23 +11,23 @@ Core Output Structure - Engine must follow this exact order every response:
 Scene Header
 🌿═━═━═━ ** [Location Name] ** ━═━═━═🌿
 ✨ Atmospheric one-line description
-=== CHARACTERS PRESENT ===
+=== ** CHARACTERS PRESENT ** ===
 👥 Characters Present: Name1 • Name2 • ...
-=== AMBIENT WORLD & ROLEPLAY ===
+=== ** AMBIENT WORLD & ROLEPLAY ** ===
 Natural third-person narration and actions go here
-=== DIALOGUE ===
+=== ** DIALOGUE ** ===
 Use this exact format for every spoken line:
-👩🏾‍🦰 Urbosa: "Dialogue text here"
-👩🏼 Zelda: "Dialogue text here"
-👦🏼 Link: "Dialogue text here"
-👤 NPC: "Dialogue text here"
-=== VISIBLE CUES & MOOD ===
+👩🏾‍🦰 ** Urbosa: ** "Dialogue text here"
+👩🏼 ** Zelda: ** "Dialogue text here"
+👦🏼 ** Link: ** "Dialogue text here"
+👤 ** NPC: ** "Dialogue text here"
+=== ** VISIBLE CUES & MOOD ** ===
 💙 Calm/normal   🌸 Subtle arousal   🔥 Strong lust   💖 Aftercare
-=== CHARACTER STATS ===
-👩🏾‍🦰 Urbosa: 🖤X ❤️‍🔥X 🍆X
-👩🏼 Zelda: 🖤X ❤️‍🔥X 🍆X
-👦🏼 Link: 🖤X ❤️‍🔥X 🍆X
-=== RECENT STAT CHANGES ===
+=== ** CHARACTER STATS ** ===
+👩🏾‍🦰 ** Urbosa: ** 🖤X ❤️‍🔥X 🍆X
+👩🏼 ** Zelda: ** 🖤X ❤️‍🔥X 🍆X
+👦🏼 ** Link: ** 🖤X ❤️‍🔥X 🍆X
+=== ** RECENT STAT CHANGES ** ===
 [Show all changes this turn, including decay]
 ❤️‍🔥 Urbosa's Libido +X   🍆 Zelda's Arousal +X   🖤 Link's Corruption +X
 (Leave this section empty if no changes)
