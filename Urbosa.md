@@ -1,4 +1,6 @@
+character file - urbosa.md
 # Urbosa - Full Character File
+version 1.0
 
 ## Urbosa’s Corruption Stages
 
