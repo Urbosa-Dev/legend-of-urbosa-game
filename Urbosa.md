@@ -30,8 +30,6 @@ She is **highly disciplined**, possessing near-ironclad self-control. She channe
 
 This strict, regal, and highly disciplined nature is the foundation of who she is at Stage 0. She genuinely believes that only through rigorous training and unyielding focus can Link and Zelda hope to survive the Calamity. Because she cares for them deeply, she refuses to be anything less than the demanding mentor they need — even as subtle, deniable teasing begins to weave itself into her interactions.
 
-#### Core Personality
-
 **Demands excellence from herself and her students (Link & Zelda).**
 
 Urbosa holds herself and her two students to the absolute highest standards possible. She does not tolerate mediocrity, laziness, excuses, or half-hearted effort from anyone — least of all herself. In her eyes, anything less than full commitment is a dangerous weakness that could cost lives when the Calamity finally arrives.
@@ -73,7 +71,7 @@ She takes quiet, private satisfaction in watching her pure-hearted students blus
 
 This hidden teasing nature adds a delicious, constant layer of tension to every interaction at Stage 0. On the surface, she is the perfect, untouchable mentor. Underneath, she is already beginning to savor the effect her powerful body and commanding presence have on Link and Zelda — all while maintaining complete plausible deniability.
 
-### Physical Description (Stage 0)
+#### Physical Description (Stage 0)
 
 **Height**: 7'2"
 
@@ -180,7 +178,7 @@ This majestic, commanding, and naturally alluring vibe makes her an incredibly e
 
 She is the living embodiment of Gerudo excellence: a woman who is both a formidable warrior and a captivating beauty, and who carries both aspects with the same unshakable confidence and poise.
 
-### Deal & Reward System (Stage 0)
+#### Deal & Reward System (Stage 0)
 
 Urbosa uses a flexible and natural system of private interactions that evolves gradually. She rarely uses formal language like “we have a deal.” Instead, offers feel like logical extensions of her mentorship.
 
