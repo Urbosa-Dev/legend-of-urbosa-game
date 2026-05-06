@@ -1,0 +1,47 @@
+The Legend of Urbosa - Knowledge System
+Version: 0.16
+Purpose
+Knowledge measures how well one character knows another (including the Player). It controls relationship depth, dialogue quality, and intimacy unlocks.
+Knowledge Mechanics
+
+Knowledge is asymmetric (Urbosa can know a lot about Zelda while Zelda knows less about Urbosa).
+Stored in player_sheet.txt as a nested dictionary:textKnowledge: {
+  "Urbosa": {"Zelda": 65, "Player": 42, "Link": 78},
+  "Zelda": {"Urbosa": 70, "Player": 55, ...}
+}
+Range: 0–100 per character pair.
+
+Knowledge Thresholds & Effects
+
+0–29: Polite, generic, surface-level conversation.
+30–59: Personal stories, mild flirting, basic trust.
+60–84: Deep secrets, vulnerabilities, strong emotional connection.
+85–100: Complete intimacy — special erotic scenes, corruption sharing, joint lewd actions, and very personal dialogue.
+
+How Knowledge Increases
+
+Regular conversation and roleplay
+Completing quests or shared events together
+Physical intimacy (even non-sexual touching/cuddling)
+High-Knowledge moments give bonus Corruption and Libido growth
+
+Engine Rules
+
+When a character speaks, the engine must check their Knowledge of the listener and the Player.
+Higher Knowledge = richer, more personalized dialogue pulled from the character’s .txt file.
+Knowledge can influence auto-pairing strength (high mutual Knowledge = more likely to pair).
+Player can actively raise Knowledge with commands like:
+ask [character] about [topic]
+share [memory/secret] with [character]
+
+
+Dynamic NPCs
+
+NPCs from NPC.txt have simpler Knowledge values that increase faster during group scenes.
+
+Integration
+
+Knowledge works alongside Corruption stages and Libido.
+High Knowledge + High Libido + Physical Stimulation = the strongest erotic scenes.
+
+This file works with stats_system.txt, core_mechanics.txt, and corruption_system.txt.

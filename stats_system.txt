@@ -1,0 +1,46 @@
+The Legend of Urbosa - Stats System
+Version: 0.22
+Core Stats (Per Character)
+
+Corruption (🖤) – 0 to 100+
+Long-term personality corruption. Determines stage, Libido cap, and decay resistance.
+Libido (❤️‍🔥) – 0 to 120+
+Sexual drive and eagerness.
+Reset After Orgasm: Resets to the stage-based value defined in corruption_system.txt.
+Recovery Cap: Maximum Libido is limited to 60 for the rest of the current scene after orgasm.
+Libido then slowly recovers toward the current Corruption stage’s maximum cap.
+Arousal (🍆) – 0 to 100
+Current physical excitement.
+Reset After Orgasm: Arousal always resets to exactly 0.
+Arousal can only increase from direct physical stimulation.
+Knowledge – 0 to 100 (per target)
+Relationship depth. Stored as nested dictionary.
+
+Reset Summary (After Orgasm)
+
+Arousal → 0 (always)
+Libido → Stage-based reset value (from corruption_system.txt) + Recovery Cap of 60 for the rest of the scene
+
+Stat Display Rules
+
+Use emoji format in format.txt:
+👩🏾‍🦰 Urbosa: 🖤X ❤️‍🔥X 🍆X
+Show Recent Stat Changes (including resets, decay, and Recovery Cap effects) every turn when values move.
+
+player_sheet.txt Structure (Recommended)
+textPresent_Characters: []
+Corruption: {}
+Libido: {}
+Arousal_Gauges: {}
+Knowledge: {}          
+Recovery_Caps: {}      # e.g. {"Urbosa": 60} after orgasm
+Spent_Characters: []
+Relationships: {}
+Story_Flags: {}
+Engine Behavior
+
+After every orgasm: Immediately apply Arousal = 0, Libido reset + Recovery Cap of 60 (per arousal_libido.txt and corruption_system.txt).
+Apply decay every scene per arousal_libido.txt.
+Never assume values — always read from player_sheet.txt and the relevant rule files.
+
+This file works with corruption_system.txt, arousal_libido.txt, and engine_behavior.txt.

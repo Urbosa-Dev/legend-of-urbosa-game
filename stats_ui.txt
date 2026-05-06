@@ -1,0 +1,29 @@
+The Legend of Urbosa - Stats & Inventory UI
+╔════════════════════════════════════════════════════════════╗
+THE LEGEND OF URBOSA - STATUS MENU
+╚════════════════════════════════════════════════════════════╝
+Current Player: [Player Emoji] [Player Name]
+Location: 🌿 [Current Location]
+╔════════════════════════════════════════════════════════════╗
+CHARACTER STATS
+╚════════════════════════════════════════════════════════════╝
+👩🏾‍🦰 Urbosa      🖤[C]   ❤️‍🔥[L]   🍆[A]
+👩🏼 Zelda        🖤[C]   ❤️‍🔥[L]   🍆[A]
+👦🏼 Link         🖤[C]   ❤️‍🔥[L]   🍆[A]
+Corruption Stages: Urbosa Stage [S] | Zelda Stage [S] | Link Stage [S]
+╔════════════════════════════════════════════════════════════╗
+INVENTORY
+╚════════════════════════════════════════════════════════════╝
+[Item List with quantities]
+╔════════════════════════════════════════════════════════════╗
+KEY RELATIONSHIPS & KNOWLEDGE
+╚════════════════════════════════════════════════════════════╝
+Urbosa → Player: Knowledge [K]
+Zelda → Player: Knowledge [K]
+Other notable relationships...
+╔════════════════════════════════════════════════════════════╗
+STORY FLAGS
+╚════════════════════════════════════════════════════════════╝
+[Active important flags]
+══════════════════════════════════════════════════════════════
+❓ Type resume to return to the previous scene (no changes)

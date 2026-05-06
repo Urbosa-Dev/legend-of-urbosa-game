@@ -1,0 +1,41 @@
+The Legend of Urbosa - Arousal & Libido System
+Version: 0.21 (Recovery Cap moved to Libido)
+Arousal (🍆) Rules
+
+Arousal represents current physical sexual excitement.
+Arousal can only increase from direct physical stimulation (touch, kiss, grope, fuck, etc.).
+No passive gain from any other source.
+After orgasm: Arousal always resets to exactly 0.
+
+Libido (❤️‍🔥) Rules
+
+Libido represents sexual desire and initiative.
+Libido grows gradually based on Corruption stage (see corruption_system.txt for gain rates and caps).
+Reset After Orgasm: Libido resets to the values defined in corruption_system.txt (Stage-based reset table).
+Recovery Cap: Maximum Libido is limited to 60 for the rest of the current scene after orgasm.
+After reset, Libido slowly recovers toward the current Corruption stage’s maximum cap (but cannot exceed the Recovery Cap in the same scene).
+
+Decay Mechanics
+
+Arousal decays by 8–15 points per scene without physical stimulation.
+Libido decays by 5–12 points per scene without erotic activity or flirting.
+Higher Corruption stages (defined in corruption_system.txt) reduce decay rates.
+
+Visible Signs
+
+🍆 0–39: Normal behavior
+🍆 40–69: Subtle cues (🌸)
+🍆 70+: Strong cues (🔥)
+
+Engine Enforcement
+
+Always reference corruption_system.txt for current stage, Libido caps, gain rates, and post-orgasm Libido reset values.
+Never allow runaway Arousal or Libido — decay must be applied every scene without stimulation.
+Show all changes (including decay and resets) in the "Recent Stat Changes" box in format.txt.
+
+Integration
+This file works together with:
+
+corruption_system.txt (for stage caps and reset values)
+stats_system.txt
+engine_behavior.txt

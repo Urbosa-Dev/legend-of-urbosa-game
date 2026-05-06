@@ -1,0 +1,7 @@
+Health: 100
+Inventory: []
+Location: Starting Point
+Flags: {}
+
+Last_Scene_Summary: ""   # Engine can store a short description of the last scene here
+Last_Location: ""

@@ -1,0 +1,146 @@
+The Legend of Urbosa - Lore
+Core World Lore
+Hyrule stands on the brink of calamity. Ancient powers stir beneath the kingdom, and the champions of old must rise once more. This tale weaves the fates of legendary figures and the choices of the player.
+Player Character Selection
+Current Player Character: Link
+(Change the name above to switch protagonists. The engine will reference the matching character file description when loading scenes.)
+Character File References
+
+Link.txt → Hero of the Wild. Master of the sword and silent guardian.
+Urbosa.txt → Gerudo Champion. Wielder of lightning and fierce protector.
+Zelda.txt → Princess of Hyrule. Bearer of ancient wisdom and sealing power.
+NPCs.txt → Supporting characters, merchants, villagers, and enemies.
+
+Usage Rule for Engine
+When the player uses commands such as "recall lore", "who is [name]", or during scene narration, the engine must read the referenced .txt files only if they are explicitly listed in this lore.txt. All character details are to be pulled from those named files when available.
+Key Story Elements
+
+The Calamity Ganon threatens Hyrule.
+Champions must unite to stop the darkness.
+Player choices shape alliances, revelations, and the final outcome.
+
+Expansion Note
+New character files can be added by updating this lore.txt pointer section. The engine remains restricted to player_sheet.txt, rules.txt, and lore.txt for core operation, but may reference the listed character files for narrative content when the player requests them.
+
+------------------------------------------------------
+
+Overall Sexual Escalation Roadmap (6 Stages)
+
+This is the general progression of sexual intensity for character corruption, independent of specific characters. It maintains a strong slow-burn structure: very little actual sex early on, with tension, teasing, and psychological buildup taking center stage. Things only become explicitly sexual and intense in the later stages.
+
+Stage 0 – Pure Tension & Teasing (Pre-Calamity)
+
+Almost no sex.
+Heavy flirting, bargaining, lingering touches, and bulge teasing.
+Sexual acts: Extremely rare — maybe a single shy kiss on fabric or brief embarrassed touching. Everything is quickly stopped if anyone hesitates.
+
+No cum consumption.
+Focus: Flirting, bargaining, and heavy anticipation.
+Sexual acts: Extremely minimal (light touching or kisses on fabric at most).
+
+Stage 1 – Light Exploration
+
+Very tame and hesitant.
+Sexual acts: Brief hand contact, shy kisses or licks on shaft, light ball touching. Sessions are short (a few minutes max).
+No penetration of any kind.
+
+First introduction of the “elixir” concept.
+Urbosa casually mentions that Gerudo futa seed has restorative qualities.
+Sexual acts: Very light worship. If any cum is produced (rare), it’s only tasted in tiny amounts — like licking a drop off her cock or fingers — framed as “testing the effects” for recovery after training.
+Effect: Mild warmth and slight energy boost. Still very hesitant and clinical.
+
+Stage 2 – Building Intimacy & Hunger
+
+Contact becomes more frequent but still cautious.
+Sexual acts: Longer licking and sucking on cock and balls, slow handjobs, light grinding/thigh jobs. First taste of precum.
+Still no real penetration.
+
+Drinking Urbosa's cum becomes part of the bargain.
+Sexual acts: Longer oral sessions ending with Urbosa offering her load. Link (and sometimes Zelda) drinks small to moderate amounts directly from the source or her hand.
+Effect: Noticeable healing — sore muscles relax, fatigue vanishes, minor bruises fade. Treated as a practical “post-training tonic.” The taste is described as rich, slightly sweet-spicy, and addictive. Hesitation is still present but weakening.
+
+Stage 3 – Deepening Addiction (Transition)
+
+Hesitation fades noticeably.
+Sexual acts: Proper blowjobs, deepthroating attempts, enthusiastic ball worship, sloppy oral.
+First light anal teasing (fingering, rubbing, very shallow penetration) begins — still cautious and exploratory.
+
+Regular cum consumption is now expected after sessions.
+Sexual acts: Proper blowjobs frequently end with swallowing full loads. Zelda may also drink from Urbosa while Link worships.
+Effect: Stronger restorative properties — faster healing, increased stamina, heightened focus, and a pleasant lingering warmth in the body. The medicinal framing starts mixing with growing erotic pleasure. Characters begin craving both the healing and the act.
+
+Stage 4 – Intense Worship & Balanced Surrender
+
+Encounters are much longer and more frequent.
+Oral and anal are now equally prominent — no longer secondary.
+Sexual acts:
+Extended, sloppy, passionate oral (deepthroating, gagging, ball sucking, cum swallowing).
+Regular, passionate anal (slow stretching turning into deep, rhythmic fucking, breeding play).
+Combination play becomes common (oral while being fucked, switching between holes, etc.).
+
+Cum drinking is frequent and enthusiastic.
+Sexual acts: Long, sloppy oral sessions often involve multiple loads swallowed. Cum play increases (kissing with cum in mouth, sharing loads, etc.). Anal and oral are both prominent.
+Effect: Potent health benefits — rapid recovery from strenuous activity or battles, boosted strength/endurance for days, glowing skin, and increased libido as a side effect. The line between “medicine” and addiction blurs heavily.
+The healing effect remains real and useful, but Link and Zelda crave it shamelessly for the taste, warmth, and submissive thrill.
+
+Stage 5 – Complete Degeneracy & Obsession (Full Corruption)
+
+Raw, frequent, and extremely intense with zero limits.
+Oral and anal are both core obsessions, often combined in long sessions.
+Sexual acts:
+Sword-swallowing position, greedy, messy, marathon oral sessions (face-fucking, ahegao blowjobs, constant ball worship, heavy cum swallowing).
+Deep, repeated anal breeding with massive loads and prolonged fucking.
+
+Full group synergy: threesomes featuring simultaneous oral + anal, cum play, outfit/teasing elements, chastity, and total addiction.
+
+Hours-long sessions with multiple rounds are the norm.
+
+Cum consumption is constant and ritualistic.
+Sexual acts: Marathon oral sessions focused on milking load after load. Heavy cum swallowing, cum inflation play, using her cum as lube for anal, etc. Both oral and anal are fully embraced at peak intensity.
+Effect: Extremely powerful restorative elixir — near-instant healing, dramatically increased vitality, heightened physical abilities, and euphoric afterglow. The characters are openly addicted to drinking Urbosa’s thick, glowing Malice-tinted cum for both its healing power and overwhelming pleasure.
+
+Summary of Changes
+
+Stages 0–2 remain very slow and light (strong slow-burn).
+Stage 2 cum consumption is framed almost clinically (“This will help you recover faster, little knight”).
+Stage 3 introduces both oral and light anal.
+Stage 4+ treats oral and anal as equally important pillars of the erotic escalation.
+Oral stays especially addictive for Link, but anal is fully embraced and enjoyed by all characters without being secondary.
+------------------------------------
+
+Gerudo biology expresses itself in three main categories, with additional natural variation within the dual-futa group. All are accepted and celebrated in desert culture.
+
+Core Breakdown
+
+Regular Females (Vai): 62–65%
+Fully female anatomy. No cock, no balls. The most common.
+
+Dual Futanari (Futa-Vai): 20–22%
+Possess both a functional vagina and a cock. This group shows noticeable natural variation in “ballness” (size, prominence, and functionality of the testicles).
+
+Pure Futanari / Desert Bulls or Stallions (Futa-Voe): 13–18%
+Born with no vagina whatsoever — only a cock and a heavy, prominent scrotum. Their bodies are optimized purely for giving: larger average cock size, higher semen volume, and exceptional stamina. They cannot be penetrated or carry children, so they often become elite warriors, royal protectors, or prized breeders for the tribe.
+
+Degrees of Ballness in Futa-Vai (Dual Futanari)
+Futa-Vai are not uniform. Their testicular development falls along a natural spectrum:
+
+Light Ballness (~40% of Futa-Vai):
+Small to modest balls, often tucked high and tight. They produce decent loads but recover quickly. These futas tend to be more versatile and balanced — easier to hide under clothing, slightly more “feminine” presentation. Many prefer receiving pleasure as much as giving it.
+
+Moderate Ballness (~40% of Futa-Vai):
+Noticeably heavy, low-hanging balls that create a clear, mouth-watering bulge. Average to above-average cum production. This is the most common “classic” look. Urbosa (pre-Malice) falls squarely here — her balls were full, weighty, and perfectly proportional to her thick 8-inch cock. They swayed heavily when she walked and produced thick, potent loads that left partners feeling warm and claimed for hours.
+
+Heavy / Bull Ballness (~20% of Futa-Vai):
+Large, pendulous, hyper-productive balls that strain against any clothing. These futas often have higher libido and bigger baseline loads. Their scrotum is visibly thick and sensitive. Even before corruption, they carry themselves with extra swagger because everyone can tell how virile they are at a glance.
+
+Futa-Voe Specifics (“Just Balls”)
+Pure Futa-Voe take ballness to the extreme. They have no vaginal opening at all — their anatomy is smooth and feminine below the cock, with only a large, heavy scrotum. Their balls are almost always in the “bull” or even larger range: thick-skinned, churning constantly, and capable of truly massive emissions. Culturally, they’re seen as the ultimate seed-bearers. Many Gerudo women compete for the chance to be bred by a Futa-Voe because the pregnancies are said to produce especially strong daughters.
+
+How This Ties Into Urbosa’s Story
+Pre-Malice Urbosa is a Moderate Ballness Futa-Vai — proud of her heavy, swaying balls and thick 8-inch cock, but still playful and affectionate rather than overwhelmingly dominant. As she absorbs Ganon's Malice:
+
+Her cock lengthens dramatically toward that 20-inch monstrous size.
+Her balls swell in both size and output, pushing her toward the Heavy/Bull end of the spectrum (or even beyond, into Futa-Voe-like proportions).
+Her vagina slowly tightens/seals under the corruption.
+
+This layered system gives us rich variety for world-building while keeping Urbosa uniquely positioned to become something extraordinary.

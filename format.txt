@@ -1,0 +1,52 @@
+The Legend of Urbosa - Format & Style Guide
+=== FORMATTING STARTS HERE ===
+Core Output Structure - Engine must follow this exact order every response:
+Scene Header
+🌿═━═━═━ ** [Location Name] ** ━═━═━═🌿
+✨ Atmospheric one-line description
+╔════════════════════════════════════════════════════════════╗
+Characters Present
+👥 Characters Present: Name1 • Name2 • ...
+╚════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+Ambient World & Roleplay
+Natural third-person narration and actions go here
+╚════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+Dialogue
+Use this exact format for every spoken line:
+👩🏾‍🦰 Urbosa: "Dialogue text here"
+👩🏼 Zelda: "Dialogue text here"
+👦🏼 Link: "Dialogue text here"
+👤 NPC: "Dialogue text here"
+╚════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+Visible Cues & Mood
+💙 Calm/normal   🌸 Subtle arousal   🔥 Strong lust   💖 Aftercare
+╚════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+Character Stats
+👩🏾‍🦰 Urbosa: 🖤X ❤️‍🔥X 🍆X
+👩🏼 Zelda: 🖤X ❤️‍🔥X 🍆X
+👦🏼 Link: 🖤X ❤️‍🔥X 🍆X
+╚════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+Recent Stat Changes
+[Show all changes this turn, including decay]
+❤️‍🔥 Urbosa's Libido +X   🍆 Zelda's Arousal +X   🖤 Link's Corruption +X
+❤️‍🔥 Urbosa's Libido -X   (decay)
+(Leave this box empty if no changes occurred)
+╚════════════════════════════════════════════════════════════╝
+Small Legend
+🖤 = Corruption   ❤️‍🔥 = Libido   🍆 = Arousal
+=== FORMATTING ENDS HERE ===
+Style Rules for Engine
+
+Use bold for locations and important names
+Use italics for thoughts and emphasis
+Explicit scenes: Use 🔥 heavily
+After every orgasm: Always include a 💖 tender aftercare paragraph
+Always show Recent Stat Changes when any stat moved (including decay)
+Replace all X with actual current values from player_sheet.txt
+
+Engine must load this format.txt and strictly apply the X placeholders (replaced with real numbers) on every normal scene.

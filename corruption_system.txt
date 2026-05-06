@@ -1,0 +1,53 @@
+The Legend of Urbosa - Corruption System
+Version: 0.23 (Malice as Source of Corruption)
+Purpose
+Corruption represents the spreading influence of Malice (the corrupting power of Calamity Ganon). It slowly twists characters' personalities, desires, and actions.
+How Characters Gain Corruption (Malice Exposure)
+Corruption increases only through exposure to Malice or Malice-tainted events. Main ways:
+
+Physical or emotional contact with Malice-corrupted beings or areas
+Repeated sexual activity in Malice-infused locations or with highly corrupted characters
+High-Knowledge intimate moments while Malice is present (strongest source)
+Witnessing or participating in Malice-driven lewd scenes
+Story events involving ancient shrines, corrupted Guardians, or Ganon’s influence
+Absorbing Malice energy (direct or indirect)
+
+Corruption Stages (Malice Influence)
+Exact personality shifts, tone, and behavior at each stage are defined only in Link.txt, Urbosa.txt, Zelda.txt, and NPC.txt.
+
+Stage 0 (🖤 0–19) – Pure / untouched by Malice
+Stage 1 (🖤 20–39) – Light Malice taint begins
+Stage 2 (🖤 40–59) – Malice noticeably influences thoughts and desires
+Stage 3 (🖤 60–79) – Strong Malice corruption
+Stage 4 (🖤 80–94) – Deep Malice integration
+Stage 5 (🖤 95–100+) – Fully overtaken by Malice (highly depraved)
+
+Libido Caps and Gain Rates
+
+Stage 0 (0–19): Max Libido 30. Gain +1 to +3
+Stage 1 (20–39): Max Libido 50. Gain +3 to +6
+Stage 2 (40–59): Max Libido 70. Gain +5 to +10
+Stage 3 (60–79): Max Libido 85. Gain +8 to +14
+Stage 4 (80–94): Max Libido 100. Gain +12 to +20
+Stage 5 (95–100+): Max Libido 120+. Gain +18 to +30
+
+Libido Reset After Orgasm
+
+Stage 0: Reset to 8–12
+Stage 1: Reset to 12–18
+Stage 2: Reset to 18–25
+Stage 3: Reset to 25–35
+Stage 4: Reset to 35–45
+Stage 5: Reset to 45–60
+
+Engine Rules
+
+Corruption (Malice) only increases when there is clear in-lore exposure or Malice-tainted activity.
+At the start of every scene, calculate current stage and apply correct Libido cap.
+Pull all personality, dialogue, and reactions exclusively from the character’s .txt file based on their current Malice Corruption stage.
+Display current Corruption value (🖤) in stats boxes.
+
+Progression Feel
+Early game: Corruption rises slowly and feels dangerous but avoidable.
+Late game: Malice becomes addictive and hard to resist due to slower decay and high Libido caps.
+This file works with arousal_libido.txt, stats_system.txt, and lore.txt (for Malice flavor).

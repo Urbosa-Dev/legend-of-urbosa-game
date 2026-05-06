@@ -1,0 +1,15 @@
+The Legend of Urbosa Game Rules
+Version: 0.16 (Modular)
+Master Index
+This file lists all active child rule files. The engine must load and obey every file listed below.
+Child Rule Files (Load These):
+
+core_mechanics.txt
+stats_system.txt
+corruption_system.txt
+arousal_libido.txt
+knowledge_system.txt
+engine_behavior.txt
+
+How to Add New Mechanics
+To add new gameplay systems, create a new child .txt file and add its name to the list above.

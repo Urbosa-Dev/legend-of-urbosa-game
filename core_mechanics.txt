@@ -1,0 +1,54 @@
+The Legend of Urbosa - Core Mechanics
+Version: 0.18
+Fundamental Game Loop
+
+Scene → Player Input → Resolution → New Scene
+All normal gameplay output must follow format.txt exactly.
+Stats & Inventory use a completely separate UI via stats_ui.txt
+
+Basic Commands (Always Available)
+
+look / examine [target]
+go [location/direction]
+talk to [character]
+ask [character] about [topic/person]
+flirt / touch / kiss / grope / fuck / tease [character or body part]
+follow [character]
+inventory / stats / menu → Opens dedicated Stats UI
+resume → Returns to and regenerates the previous scene with no changes
+
+Stats Menu & Resume Rules
+
+Typing stats, inventory, or menu switches to the clean stats_ui.txt interface.
+Typing resume (from menu or anywhere) regenerates the last scene exactly as it was with zero state changes.
+No stats increase, no time passage, no new events when using resume.
+
+Core Systems Summary
+
+Corruption drives personality shifts (stages defined in character files)
+Libido controls desire and auto-pairing (resets after orgasm)
+Arousal only increases from direct physical stimulation
+Knowledge controls relationship depth and dialogue quality
+All character personality must be pulled from their .txt files based on current Corruption stage
+
+Scene Requirements (Normal Gameplay)
+
+Use format.txt structure
+Include Character Stats box (with 🖤 ❤️‍🔥 🍆)
+Show Dynamic NPC Stats when relevant
+End with natural choices or ❓ What do you do?
+
+Persistence
+
+All permanent data lives in player_sheet.txt
+After meaningful changes, output updated sections for player to save
+
+Engine Priorities
+
+Follow format.txt for normal scenes
+Follow stats_ui.txt for menu
+resume must perfectly restore the previous scene
+Stay immersive and in-character
+Prioritize rich roleplay until physical actions begin
+
+This file works together with all other child rule files.
