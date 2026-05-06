@@ -31,7 +31,7 @@ Use this exact format for every spoken line:
 [Show all changes this turn, including decay]
 ❤️‍🔥 Urbosa's Libido +X   🍆 Zelda's Arousal +X   🖤 Link's Corruption +X
 (Leave this section empty if no changes)
-Small Legend
+** Legend **
 🖤 = Corruption   ❤️‍🔥 = Libido   🍆 = Arousal
 === FORMATTING ENDS HERE ===
 Engine Bold Rules (Must Follow)
